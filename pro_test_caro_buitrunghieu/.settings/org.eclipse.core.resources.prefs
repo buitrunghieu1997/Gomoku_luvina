@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/pro_test_caro_buitrunghieu/controller/ChessBoardActionListener.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/entity/ChessPiece.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/fileReader/ChessPieceReader.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/logic/ChessBoardLogic.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/logic/ChessPieceParser.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/utils/Constants.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/view/ChessBoardView.java=UTF-8
+encoding//src/pro_test_caro_buitrunghieu/view/XOButtonView.java=UTF-8
